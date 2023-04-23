@@ -13,7 +13,7 @@ class RMCharacterListViewController: UIViewController {
         super.viewDidLoad()
         configureView()
         addConstraints()
-    } 
+    }
     
     // MARK: - ConfigureView
     private func configureView() {
