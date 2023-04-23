@@ -62,9 +62,9 @@
 		E445D6B229F56E5C009C99EA /* CleanCodeApp */ = {
 			isa = PBXGroup;
 			children = (
+				E445D6C129F56E5D009C99EA /* Info.plist */,
 				E445D6C729F56E6B009C99EA /* Supporting Files */,
 				E445D6C829F56E74009C99EA /* Controller */,
-				E445D6C129F56E5D009C99EA /* Info.plist */,
 			);
 			path = CleanCodeApp;
 			sourceTree = "<group>";
